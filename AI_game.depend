@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1560526000 source:h:\ai_game\main.cpp
+	<array>
+	<algorithm>
+	<cinttypes>
+	<memory>
+	<iostream>
+	<iomanip>
+	<utility>
+	<random>
+	<cstring>
+	<cstdio>
+	<chrono>
+	<sstream>
+
